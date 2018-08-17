@@ -102,7 +102,7 @@
 
 	header .byline {
 		font-size: 1.6em;
-		background-color: #000000;
+		background-color: rgba(0, 0, 0, 0.75);
 	}
 
 	footer > :last-child {
