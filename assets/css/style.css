@@ -478,8 +478,7 @@
 		text-align: center;
 		background-position: 0% 45%;
 		position: relative;
-		opacity: 0.5;
-	}
+		}
 
 		#header:before {
 			content: '';
@@ -588,6 +587,7 @@
 			margin: 0em 2em;
 			line-height: 1.6em;
 			font-size: 1.5em;
+			opacity: 0.5;
 		}
 		
 		#banner a {
